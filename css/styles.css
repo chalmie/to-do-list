@@ -1,1 +1,20 @@
+#show-item {
+  display: none;
+}
 
+#user-items {
+  width: 60%;
+}
+
+#to-do {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#to-do:hover {
+  text-decoration: underline;
+}
+
+li {
+  font-size: 20px;
+}
